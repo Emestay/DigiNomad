@@ -1,15 +1,4 @@
-# Docus Starter
-
-Starter template for [Docus](https://docus.dev).
-
-## Clone
-
-Clone the repository (using `nuxi`):
-
-```bash
-npx nuxi init -t themes/docus
-```
-
+## Typescript + Nuxt3 + Node + Express
 ## Setup
 
 Install dependencies:
